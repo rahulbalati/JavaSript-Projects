@@ -59,8 +59,8 @@ DOM MANIPULATION
 
 ![Screenshot (4)](https://github.com/rahulbalati/JavaSript-Projects/assets/118408469/a03ddfb2-b553-4319-8bd7-7888de493379)
 
------------------==================================================================================---------------====================================================================
-#JSproject5-Quiz App
+-----------------==================================================================================---------------===================
+# JSproject5-Quiz App
 Features:-
 based on question we can select option if incorrect displays in red on completing scores is calculated and displayed
 
