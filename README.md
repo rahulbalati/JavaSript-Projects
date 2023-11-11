@@ -43,3 +43,34 @@ JS topics covered
 DOM MANIPULATION
 AJAX
 ![Screenshot (2)](https://github.com/rahulbalati/JSproject3-crypto-market/assets/118408469/66b0f2ca-4c62-4b06-ac14-9f8254619f80)
+
+---------------===========================================================================-=============================================================-==========================
+#JSproject4-QR 
+
+# QR Code Generator
+
+This JavaScript project allows you to dynamically generate QR codes based on user input. It utilizes the [QRServer API](https://api.qrserver.com/) to create QR codes.
+
+Features:-
+displays the QR for given links
+
+JS topics covered
+DOM MANIPULATION
+
+![Screenshot (4)](https://github.com/rahulbalati/JavaSript-Projects/assets/118408469/a03ddfb2-b553-4319-8bd7-7888de493379)
+
+-----------------==================================================================================---------------====================================================================
+#JSproject5-Quiz App
+Features:-
+based on question we can select option if incorrect displays in red on completing scores is calculated and displayed
+
+JS topics covered;-
+Arrays,array manipulation
+DOM Manipulation
+Event handling
+Template literals
+Dynamic Html creation
+
+![Screenshot (5)](https://github.com/rahulbalati/JavaSript-Projects/assets/118408469/ec848702-11eb-4c99-9217-88f5c132acf1)
+
+
