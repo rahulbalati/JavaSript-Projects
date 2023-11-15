@@ -74,3 +74,14 @@ Dynamic Html creation
 ![Screenshot (5)](https://github.com/rahulbalati/JavaSript-Projects/assets/118408469/ec848702-11eb-4c99-9217-88f5c132acf1)
 
 
+-------------=========================================================================================================--------------------------====================================
+
+# JSproject6-Digital Clock
+This project is a basic web application that shows the current time using HTML, CSS, and JavaScript. It utilizes the setInterval function to update the time every second.
+Features:-
+Real-time clock display
+Easy-to-understand JavaScript code
+![Screenshot (7)](https://github.com/rahulbalati/JavaSript-Projects/assets/118408469/8b651122-6718-487f-b9cb-009cc4a88fb2)
+
+
+
