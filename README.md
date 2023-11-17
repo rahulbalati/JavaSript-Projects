@@ -84,4 +84,17 @@ Easy-to-understand JavaScript code
 ![Screenshot (7)](https://github.com/rahulbalati/JavaSript-Projects/assets/118408469/8b651122-6718-487f-b9cb-009cc4a88fb2)
 
 
+-----------------------------------=====================================================================================--------------------------===================================
+# JSproject7-StopWatch
+This JavaScript code implements a basic stopwatch with start, stop, and reset functionalities. It uses HTML for displaying the stopwatch time and JavaScript for handling the logic.
+JS topics learnt:-
+DOM Manipulation
+Conditional Statements
+Interval and Timer Functions
+Event Handling
+Array Destructuring
+![Screenshot (8)](https://github.com/rahulbalati/JavaSript-Projects/assets/118408469/e902ebe7-c68a-4b28-8a74-dc28701d6332)
+
+
+
 
